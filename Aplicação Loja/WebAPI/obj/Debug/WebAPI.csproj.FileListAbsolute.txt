@@ -1,0 +1,16 @@
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\WebAPI.dll.config
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\WebAPI.dll
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\WebAPI.pdb
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\Loja.dll
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\Newtonsoft.Json.dll
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\System.Web.Http.dll
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\Loja.pdb
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\Newtonsoft.Json.xml
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\System.Web.Http.xml
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\obj\Debug\WebAPI.dll
+D:\CSharp Project\POO Basico\ConsoleApplication1\WebAPI\obj\Debug\WebAPI.pdb

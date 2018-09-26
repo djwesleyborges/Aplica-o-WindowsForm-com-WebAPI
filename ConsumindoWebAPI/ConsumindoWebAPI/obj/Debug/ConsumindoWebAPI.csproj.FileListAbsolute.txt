@@ -1,0 +1,10 @@
+D:\CSharp Project\POO Basico\ConsumindoWebAPI\ConsumindoWebAPI\bin\Debug\ConsumindoWebAPI.exe.config
+D:\CSharp Project\POO Basico\ConsumindoWebAPI\ConsumindoWebAPI\bin\Debug\ConsumindoWebAPI.exe
+D:\CSharp Project\POO Basico\ConsumindoWebAPI\ConsumindoWebAPI\bin\Debug\ConsumindoWebAPI.pdb
+D:\CSharp Project\POO Basico\ConsumindoWebAPI\ConsumindoWebAPI\bin\Debug\Newtonsoft.Json.dll
+D:\CSharp Project\POO Basico\ConsumindoWebAPI\ConsumindoWebAPI\obj\Debug\ConsumindoWebAPI.Form1.resources
+D:\CSharp Project\POO Basico\ConsumindoWebAPI\ConsumindoWebAPI\obj\Debug\ConsumindoWebAPI.Properties.Resources.resources
+D:\CSharp Project\POO Basico\ConsumindoWebAPI\ConsumindoWebAPI\obj\Debug\ConsumindoWebAPI.csproj.GenerateResource.Cache
+D:\CSharp Project\POO Basico\ConsumindoWebAPI\ConsumindoWebAPI\obj\Debug\ConsumindoWebAPI.exe
+D:\CSharp Project\POO Basico\ConsumindoWebAPI\ConsumindoWebAPI\obj\Debug\ConsumindoWebAPI.pdb
+D:\CSharp Project\POO Basico\ConsumindoWebAPI\ConsumindoWebAPI\obj\Debug\ConsumindoWebAPI.csprojResolveAssemblyReference.cache

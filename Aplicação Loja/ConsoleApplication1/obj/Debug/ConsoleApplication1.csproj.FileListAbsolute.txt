@@ -1,0 +1,8 @@
+D:\CSharp Project\POO Basico\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\CSharp Project\POO Basico\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\CSharp Project\POO Basico\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\CSharp Project\POO Basico\ConsoleApplication1\ConsoleApplication1\bin\Debug\Loja.dll
+D:\CSharp Project\POO Basico\ConsoleApplication1\ConsoleApplication1\bin\Debug\Loja.pdb
+D:\CSharp Project\POO Basico\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\CSharp Project\POO Basico\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\CSharp Project\POO Basico\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

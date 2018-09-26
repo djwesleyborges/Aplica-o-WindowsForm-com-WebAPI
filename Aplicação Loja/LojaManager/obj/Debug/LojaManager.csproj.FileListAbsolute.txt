@@ -1,0 +1,11 @@
+D:\CSharp Project\POO Basico\ConsoleApplication1\LojaManager\bin\Debug\LojaManager.exe.config
+D:\CSharp Project\POO Basico\ConsoleApplication1\LojaManager\bin\Debug\LojaManager.exe
+D:\CSharp Project\POO Basico\ConsoleApplication1\LojaManager\bin\Debug\LojaManager.pdb
+D:\CSharp Project\POO Basico\ConsoleApplication1\LojaManager\bin\Debug\Loja.dll
+D:\CSharp Project\POO Basico\ConsoleApplication1\LojaManager\bin\Debug\Loja.pdb
+D:\CSharp Project\POO Basico\ConsoleApplication1\LojaManager\obj\Debug\LojaManager.csprojResolveAssemblyReference.cache
+D:\CSharp Project\POO Basico\ConsoleApplication1\LojaManager\obj\Debug\LojaManager.Form1.resources
+D:\CSharp Project\POO Basico\ConsoleApplication1\LojaManager\obj\Debug\LojaManager.Properties.Resources.resources
+D:\CSharp Project\POO Basico\ConsoleApplication1\LojaManager\obj\Debug\LojaManager.csproj.GenerateResource.Cache
+D:\CSharp Project\POO Basico\ConsoleApplication1\LojaManager\obj\Debug\LojaManager.exe
+D:\CSharp Project\POO Basico\ConsoleApplication1\LojaManager\obj\Debug\LojaManager.pdb

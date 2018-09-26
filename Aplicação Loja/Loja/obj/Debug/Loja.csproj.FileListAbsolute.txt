@@ -1,0 +1,5 @@
+D:\CSharp Project\POO Basico\ConsoleApplication1\Loja\bin\Debug\Loja.dll
+D:\CSharp Project\POO Basico\ConsoleApplication1\Loja\bin\Debug\Loja.pdb
+D:\CSharp Project\POO Basico\ConsoleApplication1\Loja\obj\Debug\Loja.dll
+D:\CSharp Project\POO Basico\ConsoleApplication1\Loja\obj\Debug\Loja.pdb
+D:\CSharp Project\POO Basico\ConsoleApplication1\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
